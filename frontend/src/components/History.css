@@ -1,0 +1,35 @@
+.history-box {
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 600px;
+  background-color: #e8e9f2;
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+.history-box ul {
+  list-style: none;
+  padding: 20px;
+  margin: 0;
+}
+
+.history-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #d1d5db;
+  color: #29235c;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+}
+
+.date {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
