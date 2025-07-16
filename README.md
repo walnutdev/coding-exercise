@@ -6,7 +6,7 @@ Bem-vindo(a) ao repositório do desafio técnico para a vaga de desenvolvedor(a)
 
 ## 📝 Objetivo do Desafio
 
-Durante o teste, você irá implementar funcionalidades no frontend e backend de forma incremental. A ideia é avaliarmos sua lógica, organização e comunicação — não se preocupe em “acertar tudo”.
+Durante o teste, você irá implementar funcionalidades no frontend e backend de forma incremental. A ideia é avaliarmos sua lógica, organização e comunicação.
 
 Você vai utilizar os dados da API pública:
 > https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,GBP-BRL
@@ -18,7 +18,7 @@ Você vai utilizar os dados da API pública:
 - **Frontend**: React + Vite
 - **Backend**: Node.js + Express
 - **Requisições externas**: Axios / Fetch
-- **Comunicação entre frontend e backend**: HTTP (porta 3000 ↔ 3001)
+- **Comunicação entre frontend e backend**: HTTP (porta 3000 ↔ 4000)
 
 ---
 
@@ -32,8 +32,8 @@ Você vai utilizar os dados da API pública:
 ### 📁 Clonando o projeto
 
 ```bash
-git clone https://github.com/sua-empresa/desafio-conversor-moedas.git
-cd desafio-conversor-moedas
+git clone https://github.com/walnutdev/coding-exercise.git
+cd coding-exercise
 ```
 
 ### 📦 Rodando o Backend
